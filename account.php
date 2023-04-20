@@ -50,7 +50,7 @@ body {
         <div class="bg-white shadow rounded overflow-hidden">
             <div class="px-4 pt-0 pb-4 cover">
                 <div class="media align-items-end profile-head">
-                    <div class="profile mr-3"><img src="images/photo-profile.avif" alt="..." width="150" class="rounded mb-2 img-thumbnail">
+                    <div class="profile mr-3"><img src="images/photo-profile33.jpg" alt="..." width="150" class="rounded mb-2 img-thumbnail">
 
                         <a href="?logout" class="btn btn-outline-dark btn-sm btn-block">Sign Out</a>
 
@@ -82,9 +82,10 @@ body {
             <div class="px-4 py-3">
                 <h5 class="mb-0">Expertise </h5>
                 <div class="p-4 rounded shadow-sm bg-light">
-                    <p class="font-italic mb-0">Full-stack Web Developer</p>
-                    <p class="font-italic mb-0">Mobile App Developer</p>
-                    <p class="font-italic mb-0">Photographer/Videographer</p>
+                    <p class="font-italic mb-0">Singer</p>
+                    <p class="font-italic mb-0">Dancer</p>
+                    <p class="font-italic mb-0">Blogger</p>
+                    <p class="font-italic mb-0">Influencer</p>
                 </div>
             </div>
 
